@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">FreeLancer</h1>
+<h1 align="center">FrontendStore</h1>
 
 <div align="center">
    Second template made with HTML, CSS and JS
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/GustavoOmonteAcevedoGOA/plantilla4">
+    <a href="https://github.com/GustavoOmonteAcevedoGOA/plantilla5">
       Code
     </a>
     <span> | </span>
-    <a href="https://sitefreelancergoa.netlify.app/">
+    <a href="https://sitefrontendstore.netlify.app/">
       Demo
     </a>
     
@@ -33,14 +33,14 @@
 
 ## Overview
 
-![screenshot](https://github.com/GustavoOmonteAcevedoGOA/plantilla4/blob/main/img/FreeLancer.png)
+![screenshot](https://github.com/GustavoOmonteAcevedoGOA/plantilla5/blob/main/img/FrontendStore.png)
 
 
 ### Built With
 
 HTML
 CSS
-JS
+
 
 ## Features
 
